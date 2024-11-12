@@ -1,3 +1,4 @@
+
 Feature: User login
 
   Scenario: Successful login with valid credentials
